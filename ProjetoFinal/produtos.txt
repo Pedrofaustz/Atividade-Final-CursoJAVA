@@ -1,0 +1,2 @@
+feijao,7,10.0
+molho de tomate,2,5.0
